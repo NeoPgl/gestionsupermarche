@@ -1,0 +1,50 @@
+#divTotalHeures
+{
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    font-size: 200px;
+    color: #b92c28;
+    font-family: "Monotype Corsiva";
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#container
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+#divHeures,#divStats
+{
+    display: flex;
+    justify-content: center;
+}
+
+img
+{
+    height: 100px;
+    width: 200px;
+}
+
+h1
+{
+    font-size: 50px;
+    color: #00a1f2;
+	text-align: center;
+	text-shadow: 2px 2px 2px rgba(255,255,255, 1), 2px 2px 4px #00a1f2;
+}
+
+ #divGraph1
+{
+    width: 50%;
+    height: auto;
+} 
